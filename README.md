@@ -1,6 +1,4 @@
 # Corporate-Bankruptcy-Prediction
-A project to predict corporate bankruptcy from various financial indicators
-Corporate Bankruptcy Prediction Using Financial Indicators
 This repository contains a machine learning project aimed at predicting corporate bankruptcy based on various financial indicators. The project leverages data from the Kaggle: Bankruptcy in Poland dataset to build predictive models that could assist businesses, investors, and financial analysts in making informed decisions.
 
 📁 Project Overview
